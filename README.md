@@ -19,3 +19,5 @@ Wireframe de média fidelidade criado livremente para explorar e planejar o layo
 1. Faça o download do arquivo do repositório.  
 2. Abra o arquivo no Figma.  
 3. Explore o layout e os fluxos propostos.
+
+> **Nota:** Certifique-se de ter uma conta no [Figma](https://figma.com) para abrir o arquivo corretamente.
